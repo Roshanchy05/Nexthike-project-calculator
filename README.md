@@ -1,1 +1,0 @@
-# Nexthike-project-calculator
